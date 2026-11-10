@@ -1,0 +1,4 @@
+FirstName,LastName,Department,JobTitle,LicenceSku,Groups
+Alex,Tran,Finance,Accounts Officer,SPB,SG-Finance;SG-AllStaff
+Priya,Nair,Operations,Operations Coordinator,SPB,SG-Operations;SG-AllStaff
+Sam,Okafor,Sales,Sales Representative,SPB,SG-Sales;SG-AllStaff
