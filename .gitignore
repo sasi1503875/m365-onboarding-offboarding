@@ -1,0 +1,5 @@
+# Script output - may contain real user names / temp passwords. Never commit.
+*.log
+*-report*.csv
+licence-report*.csv
+!samples/*.csv
